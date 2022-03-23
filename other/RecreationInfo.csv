@@ -1,0 +1,38 @@
+﻿OID_,Address,City_State,Y_Coord,X_Coord,Name,Owner,Pub_Priv,All_Rec,Rec_Cat,Shore_Acce
+0,Seaport Dr & Flower St Chester Riverfront,"Chester, PA 19013",39.832351000000003,-75.376925000000000,Chester City Boat Ramp,City of Chester,Public,Jet Ski; Motorboat; Sailboat; Fishing,most immersive,Yes
+1,500 W 2nd St," Essington, PA 19029",39.861018999999999,-75.306757000000005,West End Boat Club,West End Boat Club,Private,Jet Ski; Motorboat; Sailboat; Fishing,most immersive,Yes
+2,300 W 2nd St,"Essington, PA 19029",39.859963000000000,-75.305243000000004,Corinthian Yacht Club,Corinthian Yacht Club,Private,Paddle Board; Kayak; Motorboat; Sailboat,most immersive,Yes
+3,Taylor Ave & W 2nd St,"Essington, PA 19029",39.860534000000001,-75.303224999999998,Governor Printz Park,"Tinicum
+Township",Public,Swim; Wading; Fishing,most immersive,Yes
+4,95 Wanamaker Ave,"Essington, PA 19029",39.858755000000002,-75.301152999999999,Riverside Yacht Club,Private,Private,Jet Ski; Motorboat; Sailboat,most immersive,Yes
+5,2 Bartram Ave,"Essington, PA 19029",39.858741999999999,-75.299280999999993,Philadelphia Sea Plane Base,Private,Private,Seaplane,moderately immersive,Yes
+6,1 Bartram Ave,"Essington, PA 19029",39.858673000000003,-75.296783000000005,Fox Grove Marina,Private,Private,Jet Ski; Motorboat; Sailboat,most immersive,Yes
+7,"1, Jansen Ave","Essington, PA 19029",39.859336999999996,-75.294848000000002,Golden Point/Anchorage Marina,Private,Private,Jet Ski; Motorboat; Sailboat,most immersive,Yes
+8,1000 Riverwinds Dr,"West Deptford, NJ 08086",39.862501999999999,-75.208286999999999,Riverwinds Park,West Deptford Township,Public,Swim; Wading; Kayak,most immersive,Yes
+9,1 Fort Mifflin Road,"Philadelphia, PA 19153",39.874529000000003,-75.211004000000003,Fort Mifflin,FMOD (Fort Mifflin on the Delaware),Public,Motorboat,moderately immersive,Yes
+10,100 Hessian Ave,"National Park, NJ 08063",39.869169999999997,-75.191075999999995,Red Bank Battlefield Park,Gloucester County,Public,Swim; Wading; Kayak; Fishing,most immersive,Yes
+11,1776 2nd St,"West Deptford, NJ 08086",39.876961999999999,-75.179575000000000,Rivergate Boat Ramp,West Deptford Township,Public,Jet Ski; Kayak; Motorboat; Fishing,most immersive,Yes
+12,225 S King St,"Gloucester City, NJ 08030",39.896256000000001,-75.129754000000005,Gloucester City Marina,City of Gloucester,Public,Jet Ski; Motorboat; Sailboat; Fishing,most immersive,Yes
+13,12 Jackson St,"Camden, NJ 08104",39.923771000000002,-75.128856999999996,Michael J Doyle Fishing Pier,CCMUA (Camden County Municipal Utilities Authority),Public,Fishing,least immersive,No
+14,Pier 70 Blvd,"Philadelphia, PA 19148",39.925114000000001,-75.138077999999993,Pier 68,City of Philadelphia,Public,Fishing,least immersive,Yes
+15,S Christopher Columbus Blvd,"Philadelphia, PA 19147",39.932245000000002,-75.140950000000004,Washington Avenue Greene,DRWC (Delaware River Waterfront Corporation),Public,Swim; Wading; Fishing,most immersive,Yes
+16,2 Riverside Dr,"Camden, NJ 08103",39.942616000000001,-75.131006999999997,Wiggin's Waterfront Park,Camden County,Public,Jet Ski; Kayak; Motorboat,most immersive,Yes
+17,301 S Christopher Columbus Blvd,"Philadelphia, PA 19106",39.944158999999999,-75.141229999999993,Penn's Landing,DRWC (Delaware River Waterfront Corporation),Public,Paddle Board; Kayak; Paddle Boat; Sailboat,most immersive,Yes
+18,211 S. S Christopher Columbus Blvd,"Philadelphia, PA 19106",39.945832369999998,-75.139834239999999,Independence Seaport Museum,Independence Seaport Museum, ,Kayak; Paddle Boat,moderately immersive,Yes
+19,303 N Front St,"Philadelphia, PA 19106",39.951554999999999,-75.139483999999996,Liberty Sailing Club,Liberty Sailing Club,Private,Sailboat,moderately immersive,No
+20,1301 N Beach St," Philadelphia, PA 19125",39.965384000000000,-75.127906999999993,Penn Treaty Park,City of Philadelphia,Public,Fishing,least immersive,Yes
+21, 1050 North 7th Street,"Camden, NJ 08102",39.957597999999997,-75.114324999999994,Pyne Poynt Park,Camden County Parks Department,Public,Kayak; Fishing,most immersive,Yes
+22,"Graffiti Pier,","Philadelphia, PA 19125",39.971094000000001,-75.113303000000002,Graffitti Pier,City of Philadelphia,Private,Wading; Fishing,most immersive,Yes
+23,1400 N 25th St,"Camden, NJ 08105",39.958528000000001,-75.102314000000007,Boat Club,Farrugut Sportsman's Association,Private,Motorboat,moderately immersive,Yes
+24,3001 E Allegheny Ave,"Philadelphia, PA 19134",39.977291999999998,-75.096552000000003,Pulaski Park,City of Philadelphia,Public,Fishing,least immersive,No
+25,Biedman,"Camden, NJ 08105",39.967272000000001,-75.088584999999995,Cramer Hill Nature Preserve,CCMUA (Camden County Municipal Utilities Authority),Public,Wading,most immersive,No
+26,Cove Rd,"Pennsauken Township, NJ 08110",39.969532000000001,-75.069177999999994,Heritage Park Boardwalk,NJ Wildlife Trails,Public,Fishing,least immersive,No
+27,471 Derousse Ave,"Pennsauken Township, NJ 08110",39.980822000000003,-75.065798000000001,Delair Boat Launch,Pennsauken Township,Public,Jet Ski; Motorboat; Sailboat,most immersive,Yes
+28,3101 Buckius St,"Philadelphia, PA 19137",39.994245999999997,-75.064561999999995,Bridesburg Outboard Club,Bridesburg Outboard Club,Private,Jet Ski; Motorboat; Sailboat,most immersive,Yes
+29,Unnamed Road,"Palmyra, NJ 08065",39.993859000000000,-75.054216999999994,Palmyra Cove Nature Park,Burlington County Bridge Commission,Public,Fishing,least immersive,Yes
+30,5501 Tacony St,"Philadelphia, PA 19137",40.007342999999999,-75.056284000000005,Frankford Arsenal,City of Philadelphia,Public,Swim; Wading; Jet Ski; Kayak; Motorboat; Sailboat; Fishing,most immersive,Yes
+31,5200 Devereaux St,"Philadelphia, PA 19135",40.012251999999997,-75.049638999999999,Wissanoming Yacht Club,Wissanoming Yacht Club,Private,Jet Ski; Motorboat; Sailboat,most immersive,Yes
+32,5202 Levick St,"Philadelphia, PA 19135",40.014176999999997,-75.046077999999994,Lardner's Point,City of Philadelphia,Public,Fishing,least immersive,No
+33,7071 Milnor St,"Philadelphia, PA 19135",40.019891999999999,-75.032944000000001,Tacony boat Launch,City of Philadelphia,Public,Jet Ski; Kayak; Motorboat; Sailboat,most immersive,Yes
+34,7101 N Delaware Ave,"Philadelphia, PA 19135",40.020448000000002,-75.030743999999999,Quaker City Yacht Club,Quaker City Yacht Club,Private,Jet Ski; Motorboat; Sailboat,most immersive,Yes
+35,Bank Ave,"Riverton, NJ 08077",40.015138999999998,-75.017816999999994,Riverton Yacht Club,RYC (Riverton Yacht Club),Private,Jet Ski; Motorboat; Sailboat,most immersive,Yes
