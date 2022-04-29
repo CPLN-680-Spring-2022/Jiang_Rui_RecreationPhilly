@@ -7,6 +7,8 @@ Although it was named River of the Year for 2020 and serves fifteen million peop
 <h2>File</h2>
 :black_circle:Data in 'raw_data/'
 :white_circle:Data Exploration in 'ArcGIS_files'
+:black_circle:Python Scripts and other info in 'other'
+:white_circle:Final Report named as 'Jiang_Rui_Report'
 
 <h2>Dashboard</h2>
 https://arcg.is/1HGiDX0
